@@ -4,3 +4,5 @@ This project aims to build a project ideation platform using smart contracts usi
 * truffle framework 
 * a local ethereum blockchain using ganache
 * web3js.
+
+Ethereum
